@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         val arFragment: ArFragment = supportFragmentManager.findFragmentById(R.id.fragment) as ArFragment
 
         ModelRenderable.builder()
-            .setSource(this, Uri.parse("sampledata/clock.fbx"))
+            .setSource(this, R.raw.andy)
             .build()
             .thenAccept { renderable: ModelRenderable ->
                 lampPostRenderable = renderable

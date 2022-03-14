@@ -1,0 +1,1599 @@
+{
+  animations: [
+    {
+      clips: [
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.002|ch2.one_way.002|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.002|ch2.one_way.002|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.002|ch2.one_way.002|CircleAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.002|ch2.one_way.002|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.002|ch2.one_way.002|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.002|ch2.one_way.002|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.002|ch2.one_way.002|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.002|ch2.one_way.002|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.003|ch2.one_way.003|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.003|ch2.one_way.003|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.003|ch2.one_way.003|CircleAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.003|ch2.one_way.003|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.003|ch2.one_way.003|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.003|ch2.one_way.003|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.003|ch2.one_way.003|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way.003|ch2.one_way.003|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|CircleAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.root.002|ch2.root.002|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.root.002|ch2.root.002|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.root.002|ch2.root.002|CircleAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.root.002|ch2.root.002|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.root.002|ch2.root.002|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.root.002|ch2.root.002|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.root.002|ch2.root.002|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch2.root.002|ch2.root.002|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.001|ch3.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.001|ch3.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.001|ch3.root+.001|CircleAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.001|ch3.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.001|ch3.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.001|ch3.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.001|ch3.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.001|ch3.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.002|ch3.root+.002|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.002|ch3.root+.002|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.002|ch3.root+.002|CircleAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.002|ch3.root+.002|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.002|ch3.root+.002|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.002|ch3.root+.002|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.002|ch3.root+.002|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root+.002|ch3.root+.002|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root.001|ch3.root.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root.001|ch3.root.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root.001|ch3.root.001|CircleAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root.001|ch3.root.001|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root.001|ch3.root.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root.001|ch3.root.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root.001|ch3.root.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch3.root.001|ch3.root.001|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch4.root+.001|ch4.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch4.root+.001|ch4.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch4.root+.001|ch4.root+.001|CircleAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch4.root+.001|ch4.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch4.root+.001|ch4.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch4.root+.001|ch4.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch4.root+.001|ch4.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way_ret+.001|ch4.root+.001|ch4.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.002|ch2.one_way.002|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.002|ch2.one_way.002|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.002|ch2.one_way.002|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.002|ch2.one_way.002|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.002|ch2.one_way.002|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.002|ch2.one_way.002|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.002|ch2.one_way.002|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.002|ch2.one_way.002|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.003|ch2.one_way.003|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.003|ch2.one_way.003|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.003|ch2.one_way.003|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.003|ch2.one_way.003|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.003|ch2.one_way.003|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.003|ch2.one_way.003|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.003|ch2.one_way.003|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way.003|ch2.one_way.003|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.root.002|ch2.root.002|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.root.002|ch2.root.002|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.root.002|ch2.root.002|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.root.002|ch2.root.002|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.root.002|ch2.root.002|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.root.002|ch2.root.002|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.root.002|ch2.root.002|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch2.root.002|ch2.root.002|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.001|ch3.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.001|ch3.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.001|ch3.root+.001|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.001|ch3.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.001|ch3.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.001|ch3.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.001|ch3.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.001|ch3.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.002|ch3.root+.002|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.002|ch3.root+.002|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.002|ch3.root+.002|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.002|ch3.root+.002|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.002|ch3.root+.002|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.002|ch3.root+.002|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.002|ch3.root+.002|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root+.002|ch3.root+.002|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root.001|ch3.root.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root.001|ch3.root.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root.001|ch3.root.001|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root.001|ch3.root.001|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root.001|ch3.root.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root.001|ch3.root.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root.001|ch3.root.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch3.root.001|ch3.root.001|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch4.root+.001|ch4.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch4.root+.001|ch4.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch4.root+.001|ch4.root+.001|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch4.root+.001|ch4.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.002|ch4.root+.001|ch4.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch4.root+.001|ch4.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch4.root+.001|ch4.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.002|ch4.root+.001|ch4.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.002|ch2.one_way.002|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.002|ch2.one_way.002|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.002|ch2.one_way.002|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.002|ch2.one_way.002|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.002|ch2.one_way.002|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.002|ch2.one_way.002|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.002|ch2.one_way.002|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.002|ch2.one_way.002|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.003|ch2.one_way.003|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.003|ch2.one_way.003|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.003|ch2.one_way.003|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.003|ch2.one_way.003|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.003|ch2.one_way.003|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.003|ch2.one_way.003|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.003|ch2.one_way.003|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way.003|ch2.one_way.003|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way_ret+.001|ch2.one_way_ret+.001|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way_ret+.001|ch2.one_way_ret+.001|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.one_way_ret+.001|ch2.one_way_ret+.001|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.root.002|ch2.root.002|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.root.002|ch2.root.002|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.root.002|ch2.root.002|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.root.002|ch2.root.002|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.root.002|ch2.root.002|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.root.002|ch2.root.002|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.root.002|ch2.root.002|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch2.root.002|ch2.root.002|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.001|ch3.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.001|ch3.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.001|ch3.root+.001|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.001|ch3.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.001|ch3.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.001|ch3.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.001|ch3.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.001|ch3.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.002|ch3.root+.002|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.002|ch3.root+.002|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.002|ch3.root+.002|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.002|ch3.root+.002|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.002|ch3.root+.002|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.002|ch3.root+.002|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.002|ch3.root+.002|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root+.002|ch3.root+.002|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root.001|ch3.root.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root.001|ch3.root.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root.001|ch3.root.001|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root.001|ch3.root.001|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root.001|ch3.root.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root.001|ch3.root.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root.001|ch3.root.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch3.root.001|ch3.root.001|PlaneAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch4.root+.001|ch4.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch4.root+.001|ch4.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch4.root+.001|ch4.root+.001|CircleAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch4.root+.001|ch4.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch2.one_way.003|ch4.root+.001|ch4.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch4.root+.001|ch4.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch4.root+.001|ch4.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.one_way.003|ch4.root+.001|ch4.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.002|ch2.one_way.002|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.002|ch2.one_way.002|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.002|ch2.one_way.002|CircleAction',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.002|ch2.one_way.002|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.002|ch2.one_way.002|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.002|ch2.one_way.002|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.002|ch2.one_way.002|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.002|ch2.one_way.002|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.003|ch2.one_way.003|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.003|ch2.one_way.003|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.003|ch2.one_way.003|CircleAction',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.003|ch2.one_way.003|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.003|ch2.one_way.003|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.003|ch2.one_way.003|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.003|ch2.one_way.003|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way.003|ch2.one_way.003|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|CircleAction',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.001|ch2.root.002|ch2.root.002|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.root.002|ch2.root.002|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.root.002|ch2.root.002|CircleAction',
+        },
+        {
+          name: 'ch3.root+.001|ch2.root.002|ch2.root.002|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.001|ch2.root.002|ch2.root.002|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.root.002|ch2.root.002|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.root.002|ch2.root.002|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.001|ch2.root.002|ch2.root.002|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.001|ch3.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.001|ch3.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.001|ch3.root+.001|CircleAction',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.001|ch3.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.001|ch3.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.001|ch3.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.001|ch3.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.001|ch3.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.002|ch3.root+.002|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.002|ch3.root+.002|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.002|ch3.root+.002|CircleAction',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.002|ch3.root+.002|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.002|ch3.root+.002|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.002|ch3.root+.002|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.002|ch3.root+.002|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root+.002|ch3.root+.002|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root.001|ch3.root.001|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root.001|ch3.root.001|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root.001|ch3.root.001|CircleAction',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root.001|ch3.root.001|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root.001|ch3.root.001|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root.001|ch3.root.001|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root.001|ch3.root.001|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.001|ch3.root.001|ch3.root.001|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.001|ch4.root+.001|ch4.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.001|ch4.root+.001|ch4.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch4.root+.001|ch4.root+.001|CircleAction',
+        },
+        {
+          name: 'ch3.root+.001|ch4.root+.001|ch4.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.001|ch4.root+.001|ch4.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.001|ch4.root+.001|ch4.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.001|ch4.root+.001|ch4.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.001|ch4.root+.001|ch4.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.002|ch2.one_way.002|Circle.010Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.002|ch2.one_way.002|Circle.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.002|ch2.one_way.002|CircleAction',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.002|ch2.one_way.002|EmptyAction',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.002|ch2.one_way.002|Plane.002Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.002|ch2.one_way.002|Plane.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.002|ch2.one_way.002|Plane.012Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.002|ch2.one_way.002|PlaneAction',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.003|ch2.one_way.003|Circle.010Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.003|ch2.one_way.003|Circle.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.003|ch2.one_way.003|CircleAction',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.003|ch2.one_way.003|EmptyAction',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.003|ch2.one_way.003|Plane.002Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.003|ch2.one_way.003|Plane.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.003|ch2.one_way.003|Plane.012Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way.003|ch2.one_way.003|PlaneAction',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.010Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|CircleAction',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|EmptyAction',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.002Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.012Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|PlaneAction',
+        },
+        {
+          name: 'ch4.root+.001|ch2.root.002|ch2.root.002|Circle.010Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.root.002|ch2.root.002|Circle.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.root.002|ch2.root.002|CircleAction',
+        },
+        {
+          name: 'ch4.root+.001|ch2.root.002|ch2.root.002|EmptyAction',
+        },
+        {
+          name: 'ch4.root+.001|ch2.root.002|ch2.root.002|Plane.002Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.root.002|ch2.root.002|Plane.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.root.002|ch2.root.002|Plane.012Action',
+        },
+        {
+          name: 'ch4.root+.001|ch2.root.002|ch2.root.002|PlaneAction',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.001|ch3.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.001|ch3.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.001|ch3.root+.001|CircleAction',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.001|ch3.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.001|ch3.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.001|ch3.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.001|ch3.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.001|ch3.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.002|ch3.root+.002|Circle.010Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.002|ch3.root+.002|Circle.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.002|ch3.root+.002|CircleAction',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.002|ch3.root+.002|EmptyAction',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.002|ch3.root+.002|Plane.002Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.002|ch3.root+.002|Plane.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.002|ch3.root+.002|Plane.012Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root+.002|ch3.root+.002|PlaneAction',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root.001|ch3.root.001|Circle.010Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root.001|ch3.root.001|Circle.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root.001|ch3.root.001|CircleAction',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root.001|ch3.root.001|EmptyAction',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root.001|ch3.root.001|Plane.002Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root.001|ch3.root.001|Plane.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root.001|ch3.root.001|Plane.012Action',
+        },
+        {
+          name: 'ch4.root+.001|ch3.root.001|ch3.root.001|PlaneAction',
+        },
+        {
+          name: 'ch4.root+.001|ch4.root+.001|ch4.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch4.root+.001|ch4.root+.001|ch4.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch4.root+.001|ch4.root+.001|CircleAction',
+        },
+        {
+          name: 'ch4.root+.001|ch4.root+.001|ch4.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch4.root+.001|ch4.root+.001|ch4.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch4.root+.001|ch4.root+.001|ch4.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch4.root+.001|ch4.root+.001|ch4.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch4.root+.001|ch4.root+.001|ch4.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.002|ch2.one_way.002|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.002|ch2.one_way.002|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.002|ch2.one_way.002|CircleAction',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.002|ch2.one_way.002|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.002|ch2.one_way.002|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.002|ch2.one_way.002|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.002|ch2.one_way.002|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.002|ch2.one_way.002|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.003|ch2.one_way.003|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.003|ch2.one_way.003|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.003|ch2.one_way.003|CircleAction',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.003|ch2.one_way.003|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.003|ch2.one_way.003|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.003|ch2.one_way.003|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.003|ch2.one_way.003|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way.003|ch2.one_way.003|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|CircleAction',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.002|ch2.root.002|ch2.root.002|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.root.002|ch2.root.002|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.root.002|ch2.root.002|CircleAction',
+        },
+        {
+          name: 'ch3.root+.002|ch2.root.002|ch2.root.002|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.002|ch2.root.002|ch2.root.002|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.root.002|ch2.root.002|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.root.002|ch2.root.002|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.002|ch2.root.002|ch2.root.002|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.001|ch3.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.001|ch3.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.001|ch3.root+.001|CircleAction',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.001|ch3.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.001|ch3.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.001|ch3.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.001|ch3.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.001|ch3.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.002|ch3.root+.002|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.002|ch3.root+.002|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.002|ch3.root+.002|CircleAction',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.002|ch3.root+.002|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.002|ch3.root+.002|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.002|ch3.root+.002|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.002|ch3.root+.002|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root+.002|ch3.root+.002|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root.001|ch3.root.001|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root.001|ch3.root.001|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root.001|ch3.root.001|CircleAction',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root.001|ch3.root.001|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root.001|ch3.root.001|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root.001|ch3.root.001|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root.001|ch3.root.001|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.002|ch3.root.001|ch3.root.001|PlaneAction',
+        },
+        {
+          name: 'ch3.root+.002|ch4.root+.001|ch4.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch3.root+.002|ch4.root+.001|ch4.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch4.root+.001|ch4.root+.001|CircleAction',
+        },
+        {
+          name: 'ch3.root+.002|ch4.root+.001|ch4.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch3.root+.002|ch4.root+.001|ch4.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch3.root+.002|ch4.root+.001|ch4.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch3.root+.002|ch4.root+.001|ch4.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch3.root+.002|ch4.root+.001|ch4.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.002|ch2.one_way.002|Circle.010Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.002|ch2.one_way.002|Circle.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.002|ch2.one_way.002|CircleAction',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.002|ch2.one_way.002|EmptyAction',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.002|ch2.one_way.002|Plane.002Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.002|ch2.one_way.002|Plane.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.002|ch2.one_way.002|Plane.012Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.002|ch2.one_way.002|PlaneAction',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.003|ch2.one_way.003|Circle.010Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.003|ch2.one_way.003|Circle.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.003|ch2.one_way.003|CircleAction',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.003|ch2.one_way.003|EmptyAction',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.003|ch2.one_way.003|Plane.002Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.003|ch2.one_way.003|Plane.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.003|ch2.one_way.003|Plane.012Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way.003|ch2.one_way.003|PlaneAction',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|CircleAction',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|EmptyAction',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.one_way_ret+.001|ch2.one_way_ret+.001|PlaneAction',
+        },
+        {
+          name: 'ch2.root.002|ch2.root.002|ch2.root.002|Circle.010Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.root.002|ch2.root.002|Circle.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.root.002|ch2.root.002|CircleAction',
+        },
+        {
+          name: 'ch2.root.002|ch2.root.002|ch2.root.002|EmptyAction',
+        },
+        {
+          name: 'ch2.root.002|ch2.root.002|ch2.root.002|Plane.002Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.root.002|ch2.root.002|Plane.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.root.002|ch2.root.002|Plane.012Action',
+        },
+        {
+          name: 'ch2.root.002|ch2.root.002|ch2.root.002|PlaneAction',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.001|ch3.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.001|ch3.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.001|ch3.root+.001|CircleAction',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.001|ch3.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.001|ch3.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.001|ch3.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.001|ch3.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.001|ch3.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.002|ch3.root+.002|Circle.010Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.002|ch3.root+.002|Circle.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.002|ch3.root+.002|CircleAction',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.002|ch3.root+.002|EmptyAction',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.002|ch3.root+.002|Plane.002Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.002|ch3.root+.002|Plane.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.002|ch3.root+.002|Plane.012Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root+.002|ch3.root+.002|PlaneAction',
+        },
+        {
+          name: 'ch2.root.002|ch3.root.001|ch3.root.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root.001|ch3.root.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root.001|ch3.root.001|CircleAction',
+        },
+        {
+          name: 'ch2.root.002|ch3.root.001|ch3.root.001|EmptyAction',
+        },
+        {
+          name: 'ch2.root.002|ch3.root.001|ch3.root.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root.001|ch3.root.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root.001|ch3.root.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.root.002|ch3.root.001|ch3.root.001|PlaneAction',
+        },
+        {
+          name: 'ch2.root.002|ch4.root+.001|ch4.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch2.root.002|ch4.root+.001|ch4.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch4.root+.001|ch4.root+.001|CircleAction',
+        },
+        {
+          name: 'ch2.root.002|ch4.root+.001|ch4.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch2.root.002|ch4.root+.001|ch4.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch2.root.002|ch4.root+.001|ch4.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch2.root.002|ch4.root+.001|ch4.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch2.root.002|ch4.root+.001|ch4.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.002|ch2.one_way.002|Circle.010Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.002|ch2.one_way.002|Circle.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.002|ch2.one_way.002|CircleAction',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.002|ch2.one_way.002|EmptyAction',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.002|ch2.one_way.002|Plane.002Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.002|ch2.one_way.002|Plane.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.002|ch2.one_way.002|Plane.012Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.002|ch2.one_way.002|PlaneAction',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.003|ch2.one_way.003|Circle.010Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.003|ch2.one_way.003|Circle.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.003|ch2.one_way.003|CircleAction',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.003|ch2.one_way.003|EmptyAction',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.003|ch2.one_way.003|Plane.002Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.003|ch2.one_way.003|Plane.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.003|ch2.one_way.003|Plane.012Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way.003|ch2.one_way.003|PlaneAction',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.010Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Circle.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|CircleAction',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|EmptyAction',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.002Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|Plane.012Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.one_way_ret+.001|ch2.one_way_ret+.001|PlaneAction',
+        },
+        {
+          name: 'ch3.root.001|ch2.root.002|ch2.root.002|Circle.010Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.root.002|ch2.root.002|Circle.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.root.002|ch2.root.002|CircleAction',
+        },
+        {
+          name: 'ch3.root.001|ch2.root.002|ch2.root.002|EmptyAction',
+        },
+        {
+          name: 'ch3.root.001|ch2.root.002|ch2.root.002|Plane.002Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.root.002|ch2.root.002|Plane.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.root.002|ch2.root.002|Plane.012Action',
+        },
+        {
+          name: 'ch3.root.001|ch2.root.002|ch2.root.002|PlaneAction',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.001|ch3.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.001|ch3.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.001|ch3.root+.001|CircleAction',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.001|ch3.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.001|ch3.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.001|ch3.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.001|ch3.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.001|ch3.root+.001|PlaneAction',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.002|ch3.root+.002|Circle.010Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.002|ch3.root+.002|Circle.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.002|ch3.root+.002|CircleAction',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.002|ch3.root+.002|EmptyAction',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.002|ch3.root+.002|Plane.002Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.002|ch3.root+.002|Plane.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.002|ch3.root+.002|Plane.012Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root+.002|ch3.root+.002|PlaneAction',
+        },
+        {
+          name: 'ch3.root.001|ch3.root.001|ch3.root.001|Circle.010Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root.001|ch3.root.001|Circle.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root.001|ch3.root.001|CircleAction',
+        },
+        {
+          name: 'ch3.root.001|ch3.root.001|ch3.root.001|EmptyAction',
+        },
+        {
+          name: 'ch3.root.001|ch3.root.001|ch3.root.001|Plane.002Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root.001|ch3.root.001|Plane.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root.001|ch3.root.001|Plane.012Action',
+        },
+        {
+          name: 'ch3.root.001|ch3.root.001|ch3.root.001|PlaneAction',
+        },
+        {
+          name: 'ch3.root.001|ch4.root+.001|ch4.root+.001|Circle.010Action',
+        },
+        {
+          name: 'ch3.root.001|ch4.root+.001|ch4.root+.001|Circle.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch4.root+.001|ch4.root+.001|CircleAction',
+        },
+        {
+          name: 'ch3.root.001|ch4.root+.001|ch4.root+.001|EmptyAction',
+        },
+        {
+          name: 'ch3.root.001|ch4.root+.001|ch4.root+.001|Plane.002Action',
+        },
+        {
+          name: 'ch3.root.001|ch4.root+.001|ch4.root+.001|Plane.011Action',
+        },
+        {
+          name: 'ch3.root.001|ch4.root+.001|ch4.root+.001|Plane.012Action',
+        },
+        {
+          name: 'ch3.root.001|ch4.root+.001|ch4.root+.001|PlaneAction',
+        },
+      ],
+      path: 'sampledata/clock-1.fbx',
+    },
+  ],
+  materials: [
+    {
+      name: 'unnamed material',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: null,
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: 'sampledata/clock-1.fbx',
+    name: 'clock-1',
+    recenter: 'root',
+  },
+  version: '0.54:2',
+}
